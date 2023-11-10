@@ -17,4 +17,4 @@ for (let i = 0; i < 10; i++) {
   somma += numeroInserito;
 }
 
-console.log(somma);
+console.log(`Somma numeri inseriti: ${somma}`);
